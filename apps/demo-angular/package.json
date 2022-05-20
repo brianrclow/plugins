@@ -33,7 +33,9 @@
 		"@nativescript/social-share": "file:../../dist/packages/social-share",
 		"@nativescript/theme-switcher": "file:../../dist/packages/theme-switcher",
 		"@nativescript/twitter": "file:../../dist/packages/twitter",
-		"@nativescript/zip": "file:../../dist/packages/zip"
+		"@nativescript/zip": "file:../../dist/packages/zip",
+		"@nativescript/video": "file:../../dist/packages/video",
+		"@nativescript/video-advanced": "file:../../dist/packages/video-advanced"
 	},
 	"devDependencies": {
 		"@nativescript/android": "~8.2.0",
